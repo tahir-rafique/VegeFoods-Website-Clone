@@ -1,1 +1,1 @@
-# New-Repo
+website for only vegetarian 
