@@ -1,0 +1,204 @@
+
+.header {
+    background-color: hsl(85, 43%, 48%);
+    width: 1400px;
+    padding: 3px;
+}
+
+span {
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+
+}
+
+span.Phone {
+    margin-left: 150px;
+}
+
+span.Email {
+    margin-left: 190px;
+}
+
+span.text {
+    margin-left: 290px;
+}
+
+a {
+    text-decoration: none;
+    padding: 25px;
+    color: #000;
+}
+
+
+
+
+
+/*       Testimonial Section           */
+.testimonial-container-heading{
+    text-align: center;
+}
+.testimonial-text{
+    color:#82ae46;
+}
+
+
+.testimonial-container{
+    display: flex;
+}
+.sec33{
+    width:30%;
+    text-align: center;
+    display: inline-block;
+    padding: 90px;
+}
+
+/*           Company-logs          */     
+.company-logs{
+    display: flex;
+}
+.company-logs img{
+    width: 200px;
+    height: 200px;
+    padding: 40px;
+    margin: 10px;
+}
+
+
+
+
+
+
+/*               Product container                    */
+
+.product-container{
+max-width: 100%;
+height: auto;
+padding-left: 200px;
+
+}
+
+
+.c1{
+    background-color: rgba(0, 255, 115, 0.726);
+    height: auto;
+    width: auto;
+}
+
+.c2{
+    background-color: rgb(242, 0, 255);
+    height: auto;
+    width: auto;
+}
+
+.c3{
+    background-color: rgb(130, 11, 80);
+    height: auto;
+    width: auto;
+}
+
+
+.c4{
+    background-color: rgb(140, 255, 0);
+    height: auto;
+    width: auto;
+}
+
+.c5{
+    background-color: rgb(21, 0, 255);
+    height: auto;
+    width: auto;
+}
+.c6{
+    background-color: rgb(15, 90, 0);
+    height: auto;
+    width: auto;
+}
+
+.c7{
+    background-color: rgb(84, 82, 17);
+    height: auto;
+    width: auto;
+}
+
+.c8{
+    background-color: rgba(113, 19, 202, 0.771);
+    height: auto;
+    width: auto;
+}
+
+
+
+
+
+
+
+/*      Deal of the image           */
+
+.deal-of-theday{
+    max-width: 100%;
+    height: auto;
+}
+.deal-of-day{
+    width: 100%;
+    height: auto;
+}
+
+
+
+/*      Subscription Container           */
+.con-subscription{
+    background-color: rgb(192, 188, 182);
+    width: 100%;
+    padding: 2% 5%;
+    height: 200px;
+}
+.subscription-text{
+    width:30%;
+    padding:10px;
+    float: left;
+    margin-right: 200px;
+}
+
+.subscription-eamil{
+    padding: 70px;
+}
+
+
+
+
+
+/*          Footer Section          */
+
+.footer-div{
+    display: flex;
+ }
+ 
+.vegefoods-footer{
+    height: 350px;
+    width: 350px;
+    margin-left: 100px;
+}
+.vegefoods-footer > a{
+    padding: 10px;
+}
+.Menu {
+    height: 350px;
+    width: 350px;
+}
+.Help {
+    height: 350px;
+    width: 350px;
+}
+.Address {
+    height: 350px;
+    width: 350px;
+}
+
+p.copy-right {
+    text-align: center;
+    padding: 70px;
+}
+span.copy-right {
+    color: #82ae46;
+}
+
